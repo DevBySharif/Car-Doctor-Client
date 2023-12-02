@@ -1,0 +1,44 @@
+[
+  {
+    "product_id": 1,
+    "product_name": "Car Engine Plug",
+    "rating": 4.5,
+    "price": 12.99,
+    "image": "https://i.ibb.co/D94t26N/6.png"
+  },
+  {
+    "product_id": 2,
+    "product_name": "Car Air Filter",
+    "rating": 4.0,
+    "price": 9.99,
+    "image": "https://i.ibb.co/cbXSn8V/3.png"
+  },
+  {
+    "product_id": 3,
+    "product_name": "Cools Led Light",
+    "rating": 4.8,
+    "price": 24.99,
+    "image": "https://i.ibb.co/p4Vby5G/1.png"
+  },
+  {
+    "product_id": 4,
+    "product_name": "Cools Dumper",
+    "rating": 4.8,
+    "price": 24.99,
+    "image": "https://i.ibb.co/gvRsYGL/2.png"
+  },
+  {
+    "product_id": 5,
+    "product_name": "Cools Tires",
+    "rating": 4.8,
+    "price": 24.99,
+    "image": "https://i.ibb.co/TgM1SBh/5.png"
+  },
+  {
+    "product_id": 6,
+    "product_name": "Cools Battery",
+    "rating": 4.8,
+    "price": 24.99,
+    "image": "https://i.ibb.co/zSm4MN3/4.png"
+  }
+]
